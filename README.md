@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/darielmedr/Frontend-Mentor-testimonials-grid-section](https://github.com/darielmedr/Frontend-Mentor-testimonials-grid-section)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://darielmedr.github.io/Frontend-Mentor-testimonials-grid-section/](https://darielmedr.github.io/Frontend-Mentor-testimonials-grid-section/)
 
 ### Built with
 
