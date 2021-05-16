@@ -1,0 +1,4 @@
+// Image border color
+@mixin img-border($color) {
+    border: solid 2px rgba($color: $color, $alpha: 0.3);
+}

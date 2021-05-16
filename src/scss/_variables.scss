@@ -1,0 +1,28 @@
+:root {
+  --font-size-title: 2rem;
+  --font-size-text-100: 1.1rem;
+  --font-size-text-400: 1.3rem;
+
+  @media screen and (min-width: 1440px) {
+    --font-size-title: 2rem;
+    --font-size-text-100: 1.3rem;
+    --font-size-text-400: 1.5rem;
+  }
+}
+
+/* Colors */
+
+// Primary
+
+$violet: hsl(263, 55%, 52%);
+$darkBlue-100: hsl(217, 19%, 35%);
+$darkBlue-900: hsl(219, 29%, 14%);
+$white: hsl(0, 0%, 100%);
+
+// Neutral
+
+$lightGray: hsl(0, 0%, 81%);
+$lightBlue: hsl(210, 46%, 95%);
+
+/* Font Families */
+$fontFamily: "Barlow Semi Condensed", sans-serif;
